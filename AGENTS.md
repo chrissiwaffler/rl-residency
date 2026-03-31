@@ -1,7 +1,6 @@
 ## Context
 
-Rough proposal outline in `proposal.md`.
-A more detailed outline for a v0 version is in `./v0-plan.md`.
+Also read ./README.md.
 
 ### Machine Setup
 
